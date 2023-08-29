@@ -5,3 +5,7 @@
 .gansta-font {
   font-family: Gansta;
 }
+.center {
+  text-align: center;
+  margin-top: 50vh; /* Esto centra verticalmente el elemento */
+}
